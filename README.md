@@ -1,1 +1,5 @@
-# python_you_ge_downt
+# you-get download
+
+a python file which used for downloading bilibili video.
+
+you should install the you-get tool first.
